@@ -10,3 +10,9 @@ void main(){
   //quotient
   print('quotient: ${a/b}');
 }
+//output
+
+/*sum: 15
+difference: 5
+product: 50
+quotient: 2.0*/

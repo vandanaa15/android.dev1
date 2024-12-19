@@ -17,3 +17,8 @@ void main() {
   Animal myAnimal = Animal();
   myAnimal.Sound();
 }
+
+//output
+
+/* Dog barks
+Animal makes a sound*/

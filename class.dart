@@ -15,3 +15,9 @@ void main() {
   Car myCar = Car();
   myCar.displayInfo();
 }
+//output
+
+/*Car Details:
+Brand: Toyota
+Model: Corolla
+Year: 2020*/

@@ -7,3 +7,9 @@ void main() {
   greet("Alice");
   greet("Bob", "Good Morning");
 }
+
+//output
+
+/*hello Alice, Welcome
+hello Bob, Good Morning
+*/

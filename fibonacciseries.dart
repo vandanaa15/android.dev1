@@ -11,3 +11,16 @@ void main() {
     second = next;
   }
 }
+
+//output
+
+/*0
+2
+1
+2
+3
+5
+8
+13
+21
+34*/

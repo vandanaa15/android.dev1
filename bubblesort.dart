@@ -12,3 +12,6 @@ void main() {
 
   print("Sorted list: $numbers");
 }
+//output
+
+//Sorted list: [1, 2, 5, 5, 6, 9]

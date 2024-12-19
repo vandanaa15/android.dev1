@@ -19,3 +19,9 @@ void main(){
   Multiplication(a, b);
   Division(a, b);
 }
+//output
+
+/*addition: 12
+substraction: 4
+multiplication: 32
+division: 2.0*/

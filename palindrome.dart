@@ -14,3 +14,6 @@ void main() {
     print("the string $test is not a palindrome.");
   }
 }
+//output
+
+//the string madam is a palindrome.

@@ -9,3 +9,7 @@ void main() {
   person['age'] = 26;
   print("Updated map: $person");
 }
+
+//output
+
+//Updated map: {name: Alice, age: 26, city: New York, country: USA}

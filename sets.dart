@@ -5,3 +5,6 @@ void main() {
   num.remove(2);
   print("Final set: $num");
 }
+//output
+
+//Final set: {1, 3, 4, 5}

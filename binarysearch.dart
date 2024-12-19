@@ -25,3 +25,5 @@ void main() {
     print("Number $target not found in the list.");
   }
 }
+//output
+//Number 7 found at index 3.

@@ -7,3 +7,6 @@ void main(){
     print('the number is odd');
   }
 }
+//output
+
+//the number is odd
